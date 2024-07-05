@@ -112,7 +112,7 @@ We used the architecture of the Conformer-CTC. Conformer-CTC is a CTC-based vari
 
 ### Config File for Model Parameters
 
-[Link to config file on the repository](#)
+[config file ](https://github.com/Alkholy53/ASR-Squad/blob/main/Training/conformer_ctc_bpe.yaml)
 
 ### Train the Model
 
